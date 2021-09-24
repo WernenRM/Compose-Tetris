@@ -1,4 +1,4 @@
-package com.wernen.composetetris.logic.ui
+package com.wernen.composetetris.ui
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
